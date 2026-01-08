@@ -1,7 +1,7 @@
 # Car_Sales
 Set of car sales ad data.
 
-A simple web page that generates either a **histogram** or a **scatter plot**, depending on your choice.
+A simple web page that generates either a **histogram** or a **scatter plot**, depending on  what you want to analyze from the database.
 
 ## Features
 - Choose between histogram or scatter plot  
