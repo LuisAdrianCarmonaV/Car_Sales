@@ -1,4 +1,12 @@
 # Car_Sales
-Set of car sales ad data
+Set of car sales ad data.
 
-Creates histogram or dispersion graph on wich you choose.
+A simple web page that generates either a **histogram** or a **scatter plot**, depending on your choice.
+
+## Features
+- Choose between histogram or scatter plot  
+- Automatically generates the selected chart  
+- Clean and easy-to-use interface  
+
+## Usage
+Open the page and select the type of graph you want to create.
